@@ -1,0 +1,6 @@
+#spring.servlet.multipart.location=${java.io.tempdir}
+spring.servlet.multipart.max-file-size=60MB
+spring.servlet.multipart.max-request-size=60MB
+spring.servlet.multipart.enabled=true
+
+
